@@ -1,0 +1,8 @@
+Bedroom
+Bathroom
+Classroom
+Office
+Landscape
+Skyscraper
+Mountain
+Beach
